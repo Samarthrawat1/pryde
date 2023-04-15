@@ -12,6 +12,7 @@ Contents
  * [Features Added](#Features-Added)
  * [Competitive Advantage](#Competitive-Advantage)
  * [Snapshots](#Snapshots)
+ * [Live Demo](#Live-Demo)
  * [Demo Video](#Demo-Video)
 
 
@@ -86,6 +87,10 @@ health - Pryde will be the first of its kind.
 --
 ![](https://res.cloudinary.com/divr26z8e/image/upload/v1679001362/Website_Launch_Gradient_With_Laptop_And_Phone_Mockup_Mobile_Video_Instagram_Post_Square_1_w1uzzk.gif)
 
+### Live Demo
+
+https://pryde-ekbf57bcyq-uc.a.run.app/
+
 ### Demo Video
 
-[![LIVE DEMO]](https://youtu.be/p20_crA7IQg)
+[![LIVE DEMO]](https://drive.google.com/file/d/1ceTD9FCXsW2eD9JHc3qwrKAvfsI6_vce/view?usp=share_link)
