@@ -47,7 +47,8 @@ def registerUser(request):
             }
             return render(request, 'auth_system/register.html', context=context)
         User.objects.create_user(username=name, email=email, password=password)
-        return render(request, 'auth_system/register.html')
+        login(request, authenticate(request, username=name, password=password))
+        return redirect('home-page')
     else:
         return redirect("auth-page")
 

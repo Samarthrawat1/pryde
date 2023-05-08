@@ -8,7 +8,7 @@ import requests
 import random
 import openai
 
-openai.api_key = "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"
+openai.api_key = "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"
 
 # Create your views here.
 def forumPage(request):
